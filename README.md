@@ -1,5 +1,4 @@
-Documentation IMX France
+Comming soon.
 
 
-For French documentation, see here
-For English documentation, see here
+This will be the home of IMX webservice documentation.
